@@ -7,6 +7,7 @@ steps
 {
 echo 'welcome'
 echo 'Adding some lines from unix box'
+echo 'pranee'
 }
 }
 }
